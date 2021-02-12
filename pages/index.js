@@ -3,7 +3,7 @@ import Menu from "../Components/Menu";
 
 export default function Home() {
 
-
+  console.log('test');
   return (
     <div>
       {/* <Seo /> */}
